@@ -77,7 +77,7 @@ Vrinda-Store-Excel-Analysis/
 
 
 Insight
-Women are more likely to buy compared to men (~65%)口Maharashtra, Karnataka and Uttar Pradesh are the top 3口 Adult age group (30-49 yrs) is max contributing (~50%)口Amazon, Flipkart and Myntra channels are max contribut Final Conclusion to improve Vrinda store sales:
+Women are more likely to buy compared to men (~65%) Maharashtra, Karnataka and Uttar Pradesh are the top 3口 Adult age group (30-49 yrs) is max contributing (~50%) Amazon, Flipkart and Myntra channels are max contribut Final Conclusion to improve Vrinda store sales:
 OTarget women customers of age group (30-49 yrs) living in
 Maharashtra, Karnataka and Uttar Pradesh by showing
 ads/offers/coupons available on Amazon, Flipkart and Myntra
